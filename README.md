@@ -8,6 +8,6 @@ Run file using the following command
 
 ## Prerequisites-  python and keras library
 
-## Install keras using 
+ Install keras using 
 
 > pip install keras
